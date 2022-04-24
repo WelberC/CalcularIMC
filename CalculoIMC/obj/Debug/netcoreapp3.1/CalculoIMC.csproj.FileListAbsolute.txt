@@ -1,0 +1,17 @@
+C:\Users\oximl\source\repos\CalculoIMC\CalculoIMC\bin\Debug\netcoreapp3.1\CalculoIMC.exe
+C:\Users\oximl\source\repos\CalculoIMC\CalculoIMC\bin\Debug\netcoreapp3.1\CalculoIMC.deps.json
+C:\Users\oximl\source\repos\CalculoIMC\CalculoIMC\bin\Debug\netcoreapp3.1\CalculoIMC.runtimeconfig.json
+C:\Users\oximl\source\repos\CalculoIMC\CalculoIMC\bin\Debug\netcoreapp3.1\CalculoIMC.runtimeconfig.dev.json
+C:\Users\oximl\source\repos\CalculoIMC\CalculoIMC\bin\Debug\netcoreapp3.1\CalculoIMC.dll
+C:\Users\oximl\source\repos\CalculoIMC\CalculoIMC\bin\Debug\netcoreapp3.1\CalculoIMC.pdb
+C:\Users\oximl\source\repos\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.csproj.AssemblyReference.cache
+C:\Users\oximl\source\repos\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.Form1.resources
+C:\Users\oximl\source\repos\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.csproj.GenerateResource.cache
+C:\Users\oximl\source\repos\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oximl\source\repos\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.AssemblyInfoInputs.cache
+C:\Users\oximl\source\repos\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.AssemblyInfo.cs
+C:\Users\oximl\source\repos\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.csproj.CoreCompileInputs.cache
+C:\Users\oximl\source\repos\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.dll
+C:\Users\oximl\source\repos\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.pdb
+C:\Users\oximl\source\repos\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.genruntimeconfig.cache
+C:\Users\oximl\source\repos\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.Properties.Resources.resources
