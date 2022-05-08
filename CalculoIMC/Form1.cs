@@ -108,7 +108,7 @@ namespace CalculoIMC
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             //Abre meu site
-            System.Diagnostics.Process.Start("C:/Program Files/Google/Chrome/Application/chrome.exe", "https://welberc.github.io/CurriculoEmSite/");
+            System.Diagnostics.Process.Start("C:/Program Files/Google/Chrome/Application/chrome.exe", "https://welberc.github.io/CurriculoEmSite2.0/");
         }
     }
 }
